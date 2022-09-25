@@ -1,0 +1,4 @@
+github.com/ageron/handson-ml2   : notebooks
+
+entrepot de dataset:
+http://archive.ics.uci.edu/ml
